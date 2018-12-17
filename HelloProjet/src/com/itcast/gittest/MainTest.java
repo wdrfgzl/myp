@@ -1,8 +1,8 @@
-package java.com.itcast.controller;
+package com.itcast.gittest;
 
 import org.junit.Test;
 
-public class Main {
+public class MainTest {
     public static void main(String[] args) {
         System.out.println("idea---git测试");
         System.out.println("idea---git测试");
