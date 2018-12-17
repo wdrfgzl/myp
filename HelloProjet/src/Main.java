@@ -13,4 +13,8 @@ public class Main {
     public void testHelloWrold() {
         System.out.println("HelloWorld!");
     }
+    @Test
+    public void testHelloWrold2() {
+        System.out.println("HelloWorld!");
+    }
 }
