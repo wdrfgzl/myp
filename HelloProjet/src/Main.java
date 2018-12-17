@@ -11,10 +11,14 @@ public class Main {
 
     @Test
     public void testHelloWrold() {
-        System.out.println("HelloWorld!");
+        System.out.println("Hellogit!");
     }
     @Test
     public void testHelloWrold2() {
-        System.out.println("HelloWorld!");
+        System.out.println("Hellogit!");
+    }
+    @Test
+    public void testHelloWrold3() {
+        System.out.println("Hellogit!");
     }
 }
